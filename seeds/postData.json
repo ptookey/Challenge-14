@@ -1,0 +1,20 @@
+[
+  {
+    "title": "First tech blog post",
+    "content": "A mobile app that will send you notifications when i first create the app!!.",
+    "userId": 1,
+    "date_created": "2021-06-08"
+  },
+  {
+    "title": "The Ultimate blog",
+    "content": "A web app that will give users s new way of blogging!",
+    "userId": 1,
+    "date_created": "2022-09-01"
+  },
+  {
+    "title": "Top 10 movies this month",
+    "content": "List of the top 10 new movies streaming and which service they're streaming on.",
+    "userId": 2,
+    "date_created": "2023-03-03"
+  }
+]
